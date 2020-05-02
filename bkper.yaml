@@ -2,7 +2,7 @@
 # name: New Bkper App
 
 # Set your logo url from public host. Best fit 200x200 px. Use https:// 
-logo: https://static.thenounproject.com/png/1421948-200.png
+logo: https://storage.googleapis.com/bkper-public/icons/bar-chart-report-icon.png
 #Icon created by Iconchease from Non Project. Please use with right licensing.
 
 
@@ -14,11 +14,11 @@ logo: https://static.thenounproject.com/png/1421948-200.png
                # ${account.id} - the current account being filterd
                # ${account.properties.xxxxx} - any property value from the current account being filtered
 # Sample:
-menuUrl: https://app.bkper.com/b/#transactions:bookId=${book.id}
+menuUrl: ${book.properties.report_url}
 
 
 # Override the context menu call to action
-# menuText: Menu Call to Action
+menuText: Open Report
 
 # By default the App will be available to your user, or all users of your G Suite domain.
 # Additionally you can yhitelist users you want this app to show up:
