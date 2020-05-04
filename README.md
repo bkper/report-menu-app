@@ -1,5 +1,5 @@
 # Report Menu App
-View reports inside the context of your Bkper book.
+View reports inside the context of your book without leaving Bkper.
 
 Once you install the application of type menu-app, a new menu item will appear in your Book:
 
