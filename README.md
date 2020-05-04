@@ -1,6 +1,6 @@
 # Report Menu App
 
-Keep reports inside the context of your Bkper book. You can link from your Google Sheets or others resources.
+Keep reports inside the context of your Bkper book (you can link from your Google Sheets or others resources).
 Once you install the application, a new menu item will appear on your Book. 
 
 ![Bkper Menu App](https://bkper.com/docs/images/bkper-report-menu.png)
