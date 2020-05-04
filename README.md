@@ -1,9 +1,5 @@
-# Bkper App Template
-
-Use this template to create personalized apps for you, your team or clients.
-
-![Bkper App Menu](https://storage.googleapis.com/bkper-public/images/bkper-app-menu.png)
-
+# Report Menu App
+View reports inside the context of your Bkper book.
 See the [documentation](https://bkper.com/docs/#apps) to learn more.
 
 
