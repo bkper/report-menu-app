@@ -4,9 +4,6 @@ Keep reports from your Google Sheets or others resources inside the context of y
 
 ![Bkper Menu App](https://bkper.com/docs/images/bkper-report-menu.png)
 
-When you click, your report opens:
-
-![Bkper Menu App](https://bkper.com/docs/images/bkper-app-menu-popup.png)
 
 To use this template that is already created you just need to add the link of your report on book properties.
 
