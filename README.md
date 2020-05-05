@@ -1,6 +1,6 @@
 # Report Menu App
 
-Add a report inside of your book keeping relevant informations inside the context of your book. 
+Add custom report menus inside of your book keeping relevant informations inside the context of your book. 
 
 Once you install this application, a new Menu item will appear on your Book. 
 
