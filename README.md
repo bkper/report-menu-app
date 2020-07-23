@@ -15,12 +15,13 @@ Learn more [how to create Reports with Google Sheets](https://bkper.com/blog/tur
 
 ### Configuration
 
-Add the link of your report on ```report_url``` [book property](https://help.bkper.com/en/articles/3666485-custom-properties-on-books-and-accounts).
+Add a ```report_url``` [book property](https://help.bkper.com/en/articles/3666485-custom-properties-on-books-and-accounts) with the link to your report.
 
 Example:
 ```yaml
 report_url: https://docs.google.com/spreadsheets/d/1ynzuvDElnz5zLYaMSmANy1t9c4Vv9eKeZ4vXjteGCsY/edit#gid=0
 ```
+
 
 
 
