@@ -16,6 +16,10 @@ logo: https://storage.googleapis.com/bkper-public/icons/bar-chart-report-icon.pn
 # Sample:
 menuUrl: ${book.properties.report_url}
 
+properties: 
+    book:
+      keys: report_url
+
 
 # Override the context menu call to action
 menuText: Open Report
